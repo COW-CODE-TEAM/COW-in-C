@@ -1,13 +1,15 @@
-# COW
-A [COW](https://github.com/tronpis/COW-in-C) interpreter written in C
+= COW
 
-I know the interpreter for this already exists, but I re-wrote it from C++ to C in order to make it a lot more lightweight. I've also provided the binary executables in the [releases](https://github.com/tronpis/COW-in-Creleases) page. It works just like my [BrainF](https://github.com/Amirreza-Ipchi-Haq/BrainF) interpreter.
+A link:https://github.com/tronpis/COW-in-C[COW] interpreter written in C
+
+I know the interpreter for this already exists, but I re-wrote it from C++ to C in order to make it a lot more lightweight. I've also provided the binary executables in the link:https://github.com/tronpis/COW-in-Creleases[releases] page. It works just like my link:https://github.com/Amirreza-Ipchi-Haq/BrainF[BrainF] interpreter.
 
 orginal proyect by Amirreza Ipchi Haq        
 mainter by tronpis
 
-## Example code
-```
+== Example code
+
+----
 OOOMoOMoOMoOMoOMoOMoOMoOMoOMMMmoOMMMMMMmoOMMMMOOMOomOoMoOmoOmoomOo
 MMMmoOMMMMMMmoOMMMMOOMOomOoMoOmoOmoomOoMMMmoOMMMMMMmoOMMMMOOMOomOo
 MoOmoOmooOOOmoOOOOmOomOoMMMmoOMMMMOOMOomoOMoOmOomoomoOMoOMoOMoOMoO
@@ -27,10 +29,9 @@ MoOMoOMoOMoOMoOMoOMoomOoOOOmoOOOOmOomOoMMMmoOMMMMOOMOomoOMoOmOomoo
 mOomOoMMMmoOmoOMMMMOOMOomoOMoOmOomoomoOMoOMoOMoOMoOMoOMoOMoOMoOMoO
 MoOMoOMoOMoOMoOMoOMoomOoOOOmoOOOOmOomOoMMMmoOMMMMOOMOomoOMoOmOomoo
 mOomOoMMMmoOmoOMMMMOOMOomoOMoOmOomoomOomOomOoMMMmoOmoOmoOMMMMOOMOo
-moOMoOmOomoomoOMoOMoOMoomOoOOOmoOOOOmOomOoMMMmoOMMMMOOMOomoOMoOmOo
+moOMoOmOomoomoOMoOMoomOoOOOmoOOOOmOomOoMMMmoOMMMMOOMOomoOMoOmOo
 moomOomOoMMMmoOmoOMMMMOOMOomoOMoOmOomoomoOMoOMoOMoOMoOMoOMoOMoOMoO
 MoOMoOMoOMoOMoomOoOOOmoOOOOmOomOoMMMmoOMMMMOOMOomoOMoOmOomoomOomOo
 MMMmoOmoOMMMMOOMOomoOMoOmOomoomoOMoOMoOMoOMoOMoomOoOOOmoOOOOmOomOo
 mOoMMMmoOmoOMMMMOOMOomoOMoOmOomoomoOMoOMoomOoMoOMOOMoOMOomoo
-```
-
+----
